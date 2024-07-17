@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Kohns"
+title                    : "Talha Omer"
 title_separator          : "-"
-name                     : &name "David Kohns"
+name                     : &name "Talha Omer"
 description              : &description "Postdoc in Computer Science at Aalto"
 url                      : https://davkoh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
